@@ -1,6 +1,6 @@
 
 Timeline: 
 
-
-
-* upload human microRNA hsa.gff (release 21)
+* Upload Summary Statistics (logistic regression)
+* Upload dbSNP153
+* Upload human microRNA hsa.gff (release 21)
