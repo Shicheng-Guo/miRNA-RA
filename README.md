@@ -1,4 +1,4 @@
-
+#### Association study to East-Asian common SNPs in microRNAs identifies novel rheumatoid arthritis susceptibility genetic variants
 Timeline: 
 
 * Upload Summary Statistics (logistic regression)
