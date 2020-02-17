@@ -1,6 +1,7 @@
 #### Association study to East-Asian cSNPs in microRNA identifies novel rheumatoid arthritis susceptibility genetic variants
 Timeline: 
 
+* `grep -v primary hsa.gff3 | grep -v '#'| awk '{print $1,$4,$59}'`
 * `wget https://raw.githubusercontent.com/Shicheng-Guo/miRNA-RA/master/db/hsa.gff3`
 * Upload Summary Statistics (logistic regression)
 * Upload dbSNP153
